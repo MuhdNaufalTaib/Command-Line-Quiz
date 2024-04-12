@@ -24,7 +24,7 @@ This is a simple command-line quiz application written in Python, where users ca
 ## Usage
 
 1. CD to Server
-2. Start the server by typing python "server.py"
+2. Start the server by typing "python server.py"
 3. Start the client and establish a connection to the server by typing "python client.py"
 4. Enter the username and password. Depending on the type of user you would be directed to an admin page or the quiz
 5. Play the quiz
