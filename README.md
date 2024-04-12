@@ -2,7 +2,8 @@
 
 This is a simple command-line quiz application written in Python, where users can test their knowledge on various topics.
 
-![Uploading image.png…]()
+<img width="549" alt="image" src="https://github.com/MuhdNaufalTaib/Command-Line-Quiz/assets/166147477/2946649f-05bf-4652-bbcf-db705241f2c2">
+
 
 
 ## Features
