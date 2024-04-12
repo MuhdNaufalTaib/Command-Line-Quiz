@@ -2,6 +2,9 @@
 
 This is a simple command-line quiz application written in Python, where users can test their knowledge on various topics.
 
+![Uploading image.png…]()
+
+
 ## Features
 
 - Multiple-choice questions: Users are presented with a series of random questions and can select one of the provided choices
