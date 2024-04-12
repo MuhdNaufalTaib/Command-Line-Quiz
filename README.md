@@ -31,7 +31,7 @@ This is a simple command-line quiz application written in Python, where users ca
 
 ## Configuration
 
-*Edit the admin.py file to customize the quiz questions and choices as well as add new users
+- Edit the admin.py file to customize the quiz questions and choices as well as add new users
 
 ## Contributing
 We welcome contributions from the community! If you find a bug or want to add a new feature, please open an issue or submit a pull request.
